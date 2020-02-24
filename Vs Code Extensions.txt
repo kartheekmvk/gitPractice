@@ -1,0 +1,15 @@
+Auto Rename Tag
+HTML CSS Support
+Live Sass Compiler
+Live Server
+Prettier
+JavaScript (ES6) code snippets
+Turbo Console Log
+Indent Rainbow
+Bracket Pair Colorizer
+Code Spell Checker
+REST Client
+Git Lens
+ES7 React/Redux/React-Native/JS snippets
+
+
